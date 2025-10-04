@@ -125,8 +125,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xxx"
-database_id = "xxx"
+database_name = "cldemail"
+database_id = "e792beec-87b0-48fb-84ce-49163a0295be"
 
 # kv config for send email verification code
 # [[kv_namespaces]]
